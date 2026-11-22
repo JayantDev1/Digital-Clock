@@ -1,0 +1,19 @@
+12 hr-360 
+1 hr-360/2=30deg
+
+60 minute-30deg rotation
+1 minute-1/2 
+m-m/2 deg rotation
+
+for h hour=30hr+(m/2)///1 st formula
+
+///minute rotation////
+60 minute-360 deg rotation
+1 min-6 deg
+m  minute- 6m deg
+
+
+///second rotation///
+60 second->360 deg
+1 sec->6 deg
+s sec->6s deg
